@@ -1,13 +1,11 @@
-ChatBotGPT 🤖💬
-Digite sua pergunta e receba respostas da API GPT direto no seu app Java! 🚀
-
-Como usar
-Configure sua chave da API GPT 🗝️, compile e rode a aplicação Java ⚙️, faça suas perguntas e veja as respostas! 💬
+ChatBotGPT 🤖
+Projeto simples em Java para enviar perguntas e receber respostas da API GPT (OpenAI).
 
 Tecnologias
 Java 🧩
 
-API GPT (OpenAI) 🌐
+API OpenAI GPT 🌐
 
 Licença
 MIT 📝
+
